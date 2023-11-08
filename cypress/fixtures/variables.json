@@ -1,0 +1,7 @@
+{
+    "successCopyUrlAlertExpected": "The job link is copied in clipboard.",
+    "redirectUrlLoginButtonExpected":"https://qode.world/career-auth?callbackUrl=/career/job-listing?",
+    "redirectUrlLoginButtonDashboardExpected":"https://qode.world/career-auth?callbackUrl=/career/job-listing",
+    "email": "pedro.pradita.s@gmail.com"
+}
+  
